@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Carlos Andres Infantas Galindo — Backend Developer · Software Architecture" />
+  <img src="./assets/banner.svg" width="100%" alt="Carlos Andres Infantas Galindo — Backend Developer · Software Architecture" />
 </div>
 
 <br />
