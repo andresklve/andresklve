@@ -65,21 +65,9 @@
   <!-- checks -->
   <g class="mono" font-size="13">
     <text x="40" y="236" class="fade" style="animation-delay:2.2s"><tspan fill="#565c66">[</tspan><tspan fill="#c4f542"> OK </tspan><tspan fill="#565c66">]</tspan><tspan fill="#8a9099"> java.spring.boot loaded</tspan></text>
-    <text x="300" y="236" class="fade" style="animation-delay:2.45s"><tspan fill="#565c66">[</tspan><tspan fill="#c4f542"> OK </tspan><tspan fill="#565c66">]</tspan><tspan fill="#8a9099"> 5 microservices up</tspan></text>
+    <text x="300" y="236" class="fade" style="animation-delay:2.45s"><tspan fill="#565c66">[</tspan><tspan fill="#c4f542"> OK </tspan><tspan fill="#565c66">]</tspan><tspan fill="#8a9099"> typescript.nestjs loaded</tspan></text>
     <text x="530" y="236" class="fade" style="animation-delay:2.7s"><tspan fill="#565c66">[</tspan><tspan fill="#c4f542"> OK </tspan><tspan fill="#565c66">]</tspan><tspan fill="#8a9099"> amqp://rabbitmq connected</tspan></text>
   </g>
-
-  <!-- panel de servicios -->
-  <g class="fade" style="animation-delay:2s">
-    <rect x="772" y="64" width="196" height="160" rx="12" fill="#0c0e11" stroke="#ffffff" stroke-opacity=".1"/>
-    <text x="788" y="88" class="mono" font-size="11" fill="#565c66">docker ps</text>
-    <path d="M772 98H968" stroke="#ffffff" stroke-opacity=".08"/>
-  </g>
-  <g class="fade mono" style="animation-delay:2.30s" font-size="12"><circle cx="794" cy="116" r="3.5" fill="#c4f542"/><text x="806" y="120" fill="#e9ecef">auth-service</text><text x="952" y="120" text-anchor="end" fill="#565c66">up</text></g>
-  <g class="fade mono" style="animation-delay:2.48s" font-size="12"><circle cx="794" cy="138" r="3.5" fill="#c4f542"/><text x="806" y="142" fill="#e9ecef">users-service</text><text x="952" y="142" text-anchor="end" fill="#565c66">up</text></g>
-  <g class="fade mono" style="animation-delay:2.66s" font-size="12"><circle cx="794" cy="160" r="3.5" fill="#c4f542"/><text x="806" y="164" fill="#e9ecef">posts-service</text><text x="952" y="164" text-anchor="end" fill="#565c66">up</text></g>
-  <g class="fade mono" style="animation-delay:2.84s" font-size="12"><circle cx="794" cy="182" r="3.5" fill="#c4f542"/><text x="806" y="186" fill="#e9ecef">chat-service</text><text x="952" y="186" text-anchor="end" fill="#565c66">up</text></g>
-  <g class="fade mono" style="animation-delay:3.02s" font-size="12"><circle cx="794" cy="204" r="3.5" fill="#c4f542"/><text x="806" y="208" fill="#e9ecef">feed-service</text><text x="952" y="208" text-anchor="end" fill="#565c66">up</text></g>
 
   <!-- estado -->
   <g class="fade" style="animation-delay:3.1s">
